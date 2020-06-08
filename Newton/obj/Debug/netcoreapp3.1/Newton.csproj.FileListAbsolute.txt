@@ -1,0 +1,11 @@
+C:\Users\Дима\source\repos\tasks\Newton\bin\Debug\netcoreapp3.1\Newton.exe
+C:\Users\Дима\source\repos\tasks\Newton\bin\Debug\netcoreapp3.1\Newton.deps.json
+C:\Users\Дима\source\repos\tasks\Newton\bin\Debug\netcoreapp3.1\Newton.runtimeconfig.json
+C:\Users\Дима\source\repos\tasks\Newton\bin\Debug\netcoreapp3.1\Newton.runtimeconfig.dev.json
+C:\Users\Дима\source\repos\tasks\Newton\bin\Debug\netcoreapp3.1\Newton.dll
+C:\Users\Дима\source\repos\tasks\Newton\bin\Debug\netcoreapp3.1\Newton.pdb
+C:\Users\Дима\source\repos\tasks\Newton\obj\Debug\netcoreapp3.1\Newton.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\tasks\Newton\obj\Debug\netcoreapp3.1\Newton.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\tasks\Newton\obj\Debug\netcoreapp3.1\Newton.AssemblyInfo.cs
+C:\Users\Дима\source\repos\tasks\Newton\obj\Debug\netcoreapp3.1\Newton.dll
+C:\Users\Дима\source\repos\tasks\Newton\obj\Debug\netcoreapp3.1\Newton.pdb
